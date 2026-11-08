@@ -1,3 +1,4 @@
 .env
 streamlit.log
 logs/
+.DS_Store
